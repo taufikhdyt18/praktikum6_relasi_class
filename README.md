@@ -10,20 +10,27 @@
 ![gambar](ss6/latihan.png)
 
 ### 1. Kelas Mesin
+
 ![image](ss6/mesin.png)
+
 Deskripsi
-Kelas Mesin merepresentasikan bagian internal dari Motor. Objek Mesin tidak dapat berdiri sendiri, melainkan selalu terhubung dengan objek Motor.
+- Kelas Mesin merepresentasikan bagian internal dari Motor. Objek Mesin tidak dapat berdiri sendiri, melainkan selalu terhubung dengan objek Motor.
 
 Atribut:
-tipeMesin: Jenis mesin yang digunakan, misalnya "Honda GTR150".
-kapasitas: Kapasitas mesin dalam cc, misalnya 150 cc.
+- tipeMesin: Jenis mesin yang digunakan, misalnya "Honda GTR150".
+- kapasitas: Kapasitas mesin dalam cc, misalnya 150 cc.
+
 Metode:
-start(): Menyalakan mesin.
-run(): Menjalankan mesin.
-stop(): Mematikan mesin.
-2. Kelas Motor
+- start(): Menyalakan mesin.
+- run(): Menjalankan mesin.
+- stop(): Mematikan mesin.
+
+### 2. Kelas Motor
+
+
+
 Deskripsi
-Kelas Motor merupakan objek utama yang mencakup atribut dan fungsi dari sebuah kendaraan bermotor. Objek Motor menciptakan dan mengontrol objek Mesin.
+- Kelas Motor merupakan objek utama yang mencakup atribut dan fungsi dari sebuah kendaraan bermotor. Objek Motor menciptakan dan mengontrol objek Mesin.
 
 Atribut:
 merk: Merek dari motor, misalnya "Honda Supra".
