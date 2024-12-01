@@ -9,7 +9,11 @@
 
 ![gambar](ss6/latihan.png)
 
-### 1. Kelas Mesin
+### Diagram Class
+
+![image](ss6/diagramclass_praktimu6.png)
+
+### Kelas Mesin
 
 ![image](ss6/mesin.png)
 
@@ -25,7 +29,7 @@ Metode:
 - run(): Menjalankan mesin.
 - stop(): Mematikan mesin.
 
-### 2. Kelas Motor
+### Kelas Motor
 
 
 
