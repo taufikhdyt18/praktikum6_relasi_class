@@ -1,0 +1,1 @@
+# praktikum6_relasi_class
