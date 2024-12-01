@@ -77,5 +77,36 @@ Alur Program:
 - Metode-metode ini menunjukkan interaksi antara Motor dan Mesin.
 
 ### Output Program
-Berikut adalah contoh output ketika program dijalankan:
 
+Berikut adalah contoh output ketika program dijalankan:
+```
+Motor Honda Supra siap dinyalakan.
+Mesin Honda GTR150 dengan kapasitas 150 cc telah dinyalakan.
+Motor Honda Supra sedang berjalan.
+Mesin berjalan.
+Motor Honda Supra berhenti.
+Mesin dimatikan.
+```
+
+![image](ss6/output.png)
+
+Penjelasan dari output:
+
+Ketika motor.start() dipanggil:
+- Motor menampilkan pesan bahwa siap dinyalakan.
+- Mesin dinyalakan, menampilkan tipe dan kapasitasnya.
+
+Ketika motor.run() dipanggil:
+- Motor dan mesin berjalan, masing-masing menampilkan statusnya.
+
+Ketika motor.stop() dipanggil:
+- Motor berhenti, dan mesin dimatikan.
+
+### Kesimpulan
+
+Program ini menekankan pentingnya komposisi dalam desain perangkat lunak untuk menunjukkan hubungan yang kuat antar kelas. Dalam kasus ini:
+
+- Motor hanya dapat bekerja jika Mesin berfungsi.
+- Mesin tidak dapat eksis tanpa objek Motor.
+
+## selesai
