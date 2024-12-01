@@ -42,3 +42,17 @@ Metode:
 
 ![image](ss6/motor.png)
 
+Kelas Motor merupakan objek utama yang mencakup atribut dan fungsi dari sebuah kendaraan bermotor. Objek Motor menciptakan dan mengontrol objek Mesin.
+
+Atribut:
+- merk: Merek dari motor, misalnya "Honda Supra".
+- mesin: Objek Mesin yang digunakan motor.
+
+Komposisi:
+
+Objek Motor mengandung objek Mesin. Jika Motor dihancurkan, objek Mesin juga dihancurkan karena Mesin adalah bagian tak terpisahkan dari Motor.
+
+Metode:
+- start(): Menyalakan motor, yang juga memanggil metode start() dari objek Mesin.
+- run(): Menjalankan motor, yang juga memanggil metode run() dari objek Mesin.
+- stop(): Menghentikan motor, yang juga memanggil metode stop() dari objek Mesin.
