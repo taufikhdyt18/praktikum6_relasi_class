@@ -109,4 +109,4 @@ Program ini menekankan pentingnya komposisi dalam desain perangkat lunak untuk m
 - Motor hanya dapat bekerja jika Mesin berfungsi.
 - Mesin tidak dapat eksis tanpa objek Motor.
 
-## selesai
+## Selesai
