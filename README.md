@@ -1,5 +1,5 @@
 ## Relasi Class
-| Pertemuan 10  |  Pemrograman Berorientasi Objek  
+| Pertemuan 13  |  Pemrograman Berorientasi Objek  
 |-------|---------
 | NIM   | 312310576
 | Nama  | Taufik Hidayat
